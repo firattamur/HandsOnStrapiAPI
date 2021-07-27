@@ -1,15 +1,15 @@
 <h3 align="center">
-	Title
+	7 Days of Strapi API
 </h3>
 
 <!-- badges -->
 <p align="center">
 
 <!-- language -->
-<img src="https://img.shields.io/badge/Julia-1.6.1-blue" alt="Julia: 1.6.1">
+<img src="https://img.shields.io/badge/Strapi-3.6.5-purple" alt="Strapi: 3.6.5">
 
 <!-- inprogress or completed -->
-<img src="https://img.shields.io/badge/-completed-green" alt="completed">
+<!-- <img src="https://img.shields.io/badge/-completed-green" alt="completed"> -->
 	
 <!-- inprogress or completed -->
 <img src="https://img.shields.io/badge/-in%20progress-red" alt="in progress">
@@ -20,28 +20,24 @@
 </a>
 	
 <!-- week of year -->
-<img src="https://img.shields.io/badge/week-0-green" alt="in progress">
+<img src="https://img.shields.io/badge/week-30-green" alt="in progress">
 
 </p>
 
 <h4 align="center">
-Project Description
+	Learn Strapi API fundamentals and build backend projects with Strapi.
 </h4>
 
 <h3>
 Usage:
 </h3><hr>
 
-```python
-print("Hello, Github")
-```
-
 <h3>
 Goals:
 </h3><hr>
 
-- [ ] Create an awesome repository.
-- [x] Create an awesome readme.
+- [ ] Learn fundamentals of Strapi.
+- [ ] Build an example project
 
 <h3>
 References:
