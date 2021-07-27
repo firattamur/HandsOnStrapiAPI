@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/-in%20progress-red" alt="in progress">
 	
 <!-- licence -->
-<a href="https://github.com/ftamur/iOSPencilKitDrawApp/blob/main/LICENSE">
+<a href="https://github.com/firattamur/7DaysOfStrapiAPI/blob/main/LICENSE">
 <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="License: MIT">
 </a>
 	
