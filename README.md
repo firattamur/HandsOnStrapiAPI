@@ -1,5 +1,5 @@
 <h3 align="center">
-	7 Days of Strapi API
+	Hands on Strapi API
 </h3>
 
 <!-- badges -->
