@@ -9,10 +9,10 @@
 <img src="https://img.shields.io/badge/Strapi-3.6.5-purple" alt="Strapi: 3.6.5">
 
 <!-- inprogress or completed -->
-<!-- <img src="https://img.shields.io/badge/-completed-green" alt="completed"> -->
+<img src="https://img.shields.io/badge/-completed-green" alt="completed">
 	
 <!-- inprogress or completed -->
-<img src="https://img.shields.io/badge/-in%20progress-red" alt="in progress">
+<!-- <img src="https://img.shields.io/badge/-in%20progress-red" alt="in progress"> -->
 	
 <!-- licence -->
 <a href="https://github.com/firattamur/7DaysOfStrapiAPI/blob/main/LICENSE">
