@@ -32,15 +32,26 @@
 Usage:
 </h3><hr>
 
+```bash
+
+# create a strapi project
+npx create-strapi-app app-path --quickstart
+
+# run the server
+npm run develop
+
+```
+
 <h3>
 Goals:
 </h3><hr>
 
-- [ ] Learn fundamentals of Strapi.
-- [ ] Build an example project
+- [X] Learn fundamentals of Strapi.
+- [X] Build an example project
 
 <h3>
 References:
 </h3><hr>
 
-1. [Reference]()
+1. [Strapi](https://strapi.io/)
+2. [Crash Course](https://www.youtube.com/watch?v=6FnwAbd2SDY)
